@@ -1,22 +1,6 @@
-name: FSL
+name: DIYocean
 channels:
   - conda-forge
   - defaults
 dependencies:
-  - arrow
-  - bottleneck
-  - cmocean
-  - python-dateutil
-  - jupyterlab
-  - matplotlib
-  - xarray
   - numpy
-  - pandas
-  - parcels
-  - pip
-  - python=3
-  - pytz
-  - scipy
-  - ffmpeg
-  - IPython
-  - cartopy
