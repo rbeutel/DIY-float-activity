@@ -9,3 +9,6 @@ Identical to the activity file, save sample measurements have been input and the
 
 ### environment.yaml:
 A basic environment file with the required package (numpy) has been provided. However, it should be noted that the base python environment in most (if not all) code editors will more than suffice for the purpose of this activity. Teaching students about python environments is only recommended in particularly code-literate classes and is not the focus of this activity. <br>
+
+### DIYoceanography_slides.pdf and DIYoceanography_slide_notes.pdf:
+Sample slides (with presenter notes where necessary) introduce students to the general topic and activity. The original presentation file can be accessed [here](https://www.canva.com/design/DAGImmYN--c/iOtiFkARIxcFOEZ0pC4XOA/edit?utm_content=DAGImmYN--c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 'canva.com'), where the instructor can make an editable copy. 
